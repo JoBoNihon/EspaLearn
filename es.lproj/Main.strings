@@ -1,0 +1,228 @@
+
+/* Class = "UILabel"; text = "スラング"; ObjectID = "1jK-Qe-xLy"; */
+"1jK-Qe-xLy.text" = "スラング";
+
+/* Class = "UILabel"; text = "Diecisieis(ディスイセイス)"; ObjectID = "21m-qu-mmP"; */
+"21m-qu-mmP.text" = "Diecisieis(ディスイセイス)";
+
+/* Class = "UILabel"; text = "Siete(シエテ)"; ObjectID = "2cf-te-yhc"; */
+"2cf-te-yhc.text" = "Siete(シエテ)";
+
+/* Class = "UILabel"; text = "Uno(ウノ)"; ObjectID = "2gV-Uq-hQs"; */
+"2gV-Uq-hQs.text" = "Uno(ウノ)";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "3tN-Gg-iwV"; */
+"3tN-Gg-iwV.normalTitle" = "聞く！";
+
+/* Class = "UILabel"; text = "Cuatro(クアトロ)"; ObjectID = "4hm-xA-tGU"; */
+"4hm-xA-tGU.text" = "Cuatro(クアトロ)";
+
+/* Class = "UIButton"; normalTitle = "Vamos a ello!　行こう！"; ObjectID = "5WR-Ou-AbF"; */
+"5WR-Ou-AbF.normalTitle" = "Vamos a ello!　行こう！";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "5f4-da-C2t"; */
+"5f4-da-C2t.normalTitle" = "聞く！";
+
+/* Class = "UIButton"; normalTitle = "Vamos a ello! 　行こう！"; ObjectID = "6zh-oa-HNF"; */
+"6zh-oa-HNF.normalTitle" = "Vamos a ello! 　行こう！";
+
+/* Class = "UILabel"; text = "これからは最初の数字の読み方＋イ＋最後の数字の読み方です。"; ObjectID = "8AA-YX-g4e"; */
+"8AA-YX-g4e.text" = "これからは最初の数字の読み方＋イ＋最後の数字の読み方です。";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "9QY-Ye-Vc8"; */
+"9QY-Ye-Vc8.normalTitle" = "聞く！";
+
+/* Class = "UILabel"; text = "恋愛"; ObjectID = "9aR-vT-5au"; */
+"9aR-vT-5au.text" = "恋愛";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "AsC-V7-u9W"; */
+"AsC-V7-u9W.normalTitle" = "聞く！";
+
+/* Class = "UILabel"; text = "一緒にスペイン語"; ObjectID = "Cnf-Wz-FYi"; */
+"Cnf-Wz-FYi.text" = "一緒にスペイン語";
+
+/* Class = "UILabel"; text = "一緒にスペイン語"; ObjectID = "CyJ-9U-Xnb"; */
+"CyJ-9U-Xnb.text" = "一緒にスペイン語";
+
+/* Class = "UILabel"; text = "3."; ObjectID = "DbC-67-C8V"; */
+"DbC-67-C8V.text" = "3.";
+
+/* Class = "UIButton"; normalTitle = "Vamos a ello!　行こう！"; ObjectID = "EW5-lY-GgA"; */
+"EW5-lY-GgA.normalTitle" = "Vamos a ello!　行こう！";
+
+/* Class = "UILabel"; text = "Once(オンセ)"; ObjectID = "Eqs-AD-rp6"; */
+"Eqs-AD-rp6.text" = "Once(オンセ)";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "Ey9-14-XpJ"; */
+"Ey9-14-XpJ.normalTitle" = "聞く！";
+
+/* Class = "UIButton"; normalTitle = "Volver!"; ObjectID = "Fen-Jc-db4"; */
+"Fen-Jc-db4.normalTitle" = "Volver!";
+
+/* Class = "UIButton"; normalTitle = "戻ろ！"; ObjectID = "G0p-0B-MEY"; */
+"G0p-0B-MEY.normalTitle" = "戻ろ！";
+
+/* Class = "UILabel"; text = "練習"; ObjectID = "HBe-At-Ope"; */
+"HBe-At-Ope.text" = "練習";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "Ixk-Ao-ST6"; */
+"Ixk-Ao-ST6.normalTitle" = "聞く！";
+
+/* Class = "UIButton"; normalTitle = "Vamos a ello!　行こう！"; ObjectID = "L9O-gH-cmI"; */
+"L9O-gH-cmI.normalTitle" = "Vamos a ello!　行こう！";
+
+/* Class = "UILabel"; text = "Tres(トレス)"; ObjectID = "LDp-Nt-4zf"; */
+"LDp-Nt-4zf.text" = "Tres(トレス)";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "LFZ-1K-HV2"; */
+"LFZ-1K-HV2.normalTitle" = "聞く！";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "LYm-dL-d29"; */
+"LYm-dL-d29.normalTitle" = "聞く！";
+
+/* Class = "UILabel"; text = "Examen"; ObjectID = "LqG-jZ-IdS"; */
+"LqG-jZ-IdS.text" = "Examen";
+
+/* Class = "UIButton"; normalTitle = "Vamos a ello!　行こう！"; ObjectID = "MFm-QT-OMJ"; */
+"MFm-QT-OMJ.normalTitle" = "Vamos a ello!　行こう！";
+
+/* Class = "UILabel"; text = "Ocho(オチョ)"; ObjectID = "NBS-zI-z8I"; */
+"NBS-zI-z8I.text" = "Ocho(オチョ)";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "NFc-tP-5ph"; */
+"NFc-tP-5ph.normalTitle" = "聞く！";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "NgX-hd-u0q"; */
+"NgX-hd-u0q.normalTitle" = "聞く！";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "OGS-od-qcw"; */
+"OGS-od-qcw.normalTitle" = "聞く！";
+
+/* Class = "UILabel"; text = "4."; ObjectID = "Or7-gw-Z09"; */
+"Or7-gw-Z09.text" = "4.";
+
+/* Class = "UILabel"; text = "Trece(トレセ)"; ObjectID = "PXI-UF-wa3"; */
+"PXI-UF-wa3.text" = "Trece(トレセ)";
+
+/* Class = "UILabel"; text = "仕事"; ObjectID = "QGR-GX-hlT"; */
+"QGR-GX-hlT.text" = "仕事";
+
+/* Class = "UILabel"; text = "挨拶"; ObjectID = "QWN-TO-quo"; */
+"QWN-TO-quo.text" = "挨拶";
+
+/* Class = "UILabel"; text = "Made en España"; ObjectID = "R2C-Vn-4LW"; */
+"R2C-Vn-4LW.text" = "Made en España";
+
+/* Class = "UILabel"; text = "Amor"; ObjectID = "RJE-el-feq"; */
+"RJE-el-feq.text" = "Amor";
+
+/* Class = "UILabel"; text = "試験"; ObjectID = "RM1-EV-JoT"; */
+"RM1-EV-JoT.text" = "試験";
+
+/* Class = "UILabel"; text = "Nueve(ヌエべ)"; ObjectID = "S6u-u7-y5i"; */
+"S6u-u7-y5i.text" = "Nueve(ヌエべ)";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "UB4-V2-Gho"; */
+"UB4-V2-Gho.normalTitle" = "聞く！";
+
+/* Class = "UILabel"; text = "6."; ObjectID = "VRQ-bz-DZE"; */
+"VRQ-bz-DZE.text" = "6.";
+
+/* Class = "UIButton"; normalTitle = "Volver!"; ObjectID = "VrS-vN-ElB"; */
+"VrS-vN-ElB.normalTitle" = "Volver!";
+
+/* Class = "UILabel"; text = "Trabajo"; ObjectID = "VwA-Zi-E8p"; */
+"VwA-Zi-E8p.text" = "Trabajo";
+
+/* Class = "UILabel"; text = "Vocabulario"; ObjectID = "Wjb-Tz-gPq"; */
+"Wjb-Tz-gPq.text" = "Vocabulario";
+
+/* Class = "UILabel"; text = "Quince(キンセ)"; ObjectID = "XGa-TL-35g"; */
+"XGa-TL-35g.text" = "Quince(キンセ)";
+
+/* Class = "UILabel"; text = "Cinco(シンコ)"; ObjectID = "ZjZ-Kc-14M"; */
+"ZjZ-Kc-14M.text" = "Cinco(シンコ)";
+
+/* Class = "UILabel"; text = "基本"; ObjectID = "aYH-CG-JL3"; */
+"aYH-CG-JL3.text" = "基本";
+
+/* Class = "UIButton"; normalTitle = "Vamos a ello!　行こう！"; ObjectID = "cZk-h7-WDJ"; */
+"cZk-h7-WDJ.normalTitle" = "Vamos a ello!　行こう！";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "cxj-Ll-vVq"; */
+"cxj-Ll-vVq.normalTitle" = "聞く！";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "dPL-G6-c3V"; */
+"dPL-G6-c3V.normalTitle" = "聞く！";
+
+/* Class = "UILabel"; text = "Diez(ディエス)"; ObjectID = "eTK-gx-4XF"; */
+"eTK-gx-4XF.text" = "Diez(ディエス)";
+
+/* Class = "UILabel"; text = "Catorze(カトルセ)"; ObjectID = "f01-Ai-nfH"; */
+"f01-Ai-nfH.text" = "Catorze(カトルセ)";
+
+/* Class = "UIButton"; normalTitle = "Vamos a ello!　行こう！"; ObjectID = "grw-RA-Swy"; */
+"grw-RA-Swy.normalTitle" = "Vamos a ello!　行こう！";
+
+/* Class = "UIButton"; normalTitle = "戻ろ！"; ObjectID = "hgP-PY-LSj"; */
+"hgP-PY-LSj.normalTitle" = "戻ろ！";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "hhp-kc-iVh"; */
+"hhp-kc-iVh.normalTitle" = "聞く！";
+
+/* Class = "UILabel"; text = "一緒にスペイン語"; ObjectID = "k2w-kv-Xps"; */
+"k2w-kv-Xps.text" = "一緒にスペイン語";
+
+/* Class = "UILabel"; text = "1."; ObjectID = "lec-DC-9Kb"; */
+"lec-DC-9Kb.text" = "1.";
+
+/* Class = "UILabel"; text = "Saludos"; ObjectID = "pKi-DK-RbY"; */
+"pKi-DK-RbY.text" = "Saludos";
+
+/* Class = "UILabel"; text = "5."; ObjectID = "pXg-qU-Ba4"; */
+"pXg-qU-Ba4.text" = "5.";
+
+/* Class = "UILabel"; text = "買い物"; ObjectID = "qWw-zX-IWI"; */
+"qWw-zX-IWI.text" = "買い物";
+
+/* Class = "UILabel"; text = "一緒にスペイン語"; ObjectID = "rBk-JQ-Mny"; */
+"rBk-JQ-Mny.text" = "一緒にスペイン語";
+
+/* Class = "UIButton"; normalTitle = "戻ろ！"; ObjectID = "rNV-EY-oFd"; */
+"rNV-EY-oFd.normalTitle" = "戻ろ！";
+
+/* Class = "UILabel"; text = "Compras"; ObjectID = "s8Y-6F-AI9"; */
+"s8Y-6F-AI9.text" = "Compras";
+
+/* Class = "UIButton"; normalTitle = "戻ろ！"; ObjectID = "sUk-xg-PdY"; */
+"sUk-xg-PdY.normalTitle" = "戻ろ！";
+
+/* Class = "UIButton"; normalTitle = "Volver!"; ObjectID = "sd1-2H-stw"; */
+"sd1-2H-stw.normalTitle" = "Volver!";
+
+/* Class = "UILabel"; text = "2."; ObjectID = "tJ0-J5-AwC"; */
+"tJ0-J5-AwC.text" = "2.";
+
+/* Class = "UILabel"; text = "Doce(ドセ)"; ObjectID = "ted-OE-ec2"; */
+"ted-OE-ec2.text" = "Doce(ドセ)";
+
+/* Class = "UILabel"; text = "Fundamentos"; ObjectID = "uvW-lN-BOF"; */
+"uvW-lN-BOF.text" = "Fundamentos";
+
+/* Class = "UIButton"; normalTitle = "Volver!"; ObjectID = "vnq-N9-JiT"; */
+"vnq-N9-JiT.normalTitle" = "Volver!";
+
+/* Class = "UIButton"; normalTitle = "聞く！"; ObjectID = "wAN-gG-Jye"; */
+"wAN-gG-Jye.normalTitle" = "聞く！";
+
+/* Class = "UILabel"; text = "Dos(ドス)"; ObjectID = "y0n-6B-voe"; */
+"y0n-6B-voe.text" = "Dos(ドス)";
+
+/* Class = "UILabel"; text = "一緒にスペイン語"; ObjectID = "y4s-kx-VlZ"; */
+"y4s-kx-VlZ.text" = "一緒にスペイン語";
+
+/* Class = "UILabel"; text = "Seis(セイス)"; ObjectID = "yR7-KP-BC1"; */
+"yR7-KP-BC1.text" = "Seis(セイス)";
+
+/* Class = "UIButton"; normalTitle = "Vamos a ello!　行こう！"; ObjectID = "zwH-g8-i96"; */
+"zwH-g8-i96.normalTitle" = "Vamos a ello!　行こう！";
